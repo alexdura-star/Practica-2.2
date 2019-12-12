@@ -1,0 +1,74 @@
+
+
+
+body { background-color: #F4E2CC ; 
+}
+
+header
+{color: #4D0906;
+ text-align: center;
+ font-weight: bold;
+  }
+
+  p.header2 { color: #450E05  ;	
+    text-align: center;
+    font-weight: bold; 
+  }
+
+p.texto{
+    color: #933C3B }
+
+    p.carta { color:	rgb(235, 149, 68) ;}
+
+    p.titulocarta { color:#8B2928; }
+
+p.carta {
+    text-align: left;
+}
+
+p.cafe {
+    text-align: center;
+}
+
+p.contactos {
+    text-align: right;
+}
+
+p.textocafe {
+    color: rgb(148, 4, 6); 
+    font: bold ;
+  }
+
+address {
+    color:sienna;
+}
+
+table {
+    border: black 1px solid;
+    width: 50cm;
+    height: 1cm;
+  }
+  td, th {
+    border: rgb(207, 97, 60) 1px solid;
+  }
+
+  colgroup.fondo {
+    background-color: #FFEECD; 
+  }
+ 
+ p.tablas { color: rgb(197, 55, 55) ;
+font-weight: bold ;
+
+} 
+
+td.tablasfecha { color: rgb(197, 55, 55) ;
+    width: 2cm;
+    font-weight: bold ;
+background-color: #FFEECD; 
+    
+    } 
+
+p.textotablas { color: rgb(197, 55, 55) ;
+    
+    } 
+
